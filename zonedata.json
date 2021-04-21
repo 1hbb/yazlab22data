@@ -1839,5 +1839,19 @@
    "latitude": -73.95120799,
    "longitude": 40.77849587,
    "borough": "Manhattan"
+ },
+ {
+   "LocationID": 264,
+   "zone": "Yorkville West",
+   "latitude": -73.95120799,
+   "longitude": 40.77849587,
+   "borough": "Manhattan"
+ },
+ {
+   "LocationID": 265,
+   "zone": "Yorkville West",
+   "latitude": -73.95120799,
+   "longitude": 40.77849587,
+   "borough": "Manhattan"
  }
 ]
